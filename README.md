@@ -1,3 +1,5 @@
+snake game eith a simple neural network 
+
 run with
 
 ```bash
